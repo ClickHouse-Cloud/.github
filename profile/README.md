@@ -80,7 +80,7 @@ ClickHouse Cloud is strongest for teams that need real-time analytics without bu
 
 Organizations already using AWS often compare clickhouse aws patterns and ClickHouse Cloud AWS deployment options before launch. Teams with procurement controls may also check ClickHouse Cloud marketplace paths, while startups may begin with ClickHouse Cloud free trial testing before moving to paid ClickHouse Cloud billing.
 
-![ClickHouse Cloud console showing managed analytics service health and query activity](https://mms.businesswire.com/media/20230620927126/fr/1823219/5/650x205_transparent_bg_black.jpg?download=1)
+![ClickHouse Cloud console showing managed analytics service health and query activity](https://miro.medium.com/v2/1*oU6Wv7f4UTtje3-TRK5HiA.png)
 
 ## Practical Fixes and Setup Answers
 
